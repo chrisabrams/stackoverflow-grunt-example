@@ -1,0 +1,19 @@
+{
+  "author": "Chris Abrams",
+  "name": "stackoverflow-grunt-example",
+  "title": "stackoverflow-grunt-example",
+  "description": "stackoverflow-grunt-example",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "grunt": "0.4.1",
+    "grunt-commonjs-aws-s3": "0.0.2"
+  }
+}
